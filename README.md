@@ -29,4 +29,6 @@ Once you have downloaded and extracted Project.zip, make sure to install depende
 - pipenv install
 - pipenv run python3 main.py
 
+you can test the project from your own webcam by just changing one line of code. Instead of providing path of video in camera.py on line 11 just provide 0 without braces. It will automatically detect your default camera. 
+
 
