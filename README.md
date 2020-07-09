@@ -10,6 +10,7 @@ The dataset used in this project was collected in 2013 for KAGGLE and ICI machin
 -	Disgust
 -	Sad
 -	Fear
+
 The project comprises of:
 - Develop a facial expression recognition model in Keras
 - Build and train a convolutional neural network (CNN)
